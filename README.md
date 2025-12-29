@@ -1,4 +1,4 @@
-# Syntecxhub_Maze_Solver_using_A*_Search
+# Maze_Solver_using_A*_Search
 
 # 🗺️ A* Search Maze Solver
 
